@@ -17,7 +17,7 @@ ipython notebook Identify_Customer_Segments.ipynb
 ```
 or
 ```bash
-jupyter notebook Identify_Customer_Segments.ipynb.ipynb
+jupyter notebook Identify_Customer_Segments.ipynb
 ```
 
 on any Jupyter Notebook.
