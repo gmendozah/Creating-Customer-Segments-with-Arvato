@@ -11,7 +11,7 @@ This project requires **Python 3.6.0** and the following Python libraries instal
 - [scikit-learn](https://scikit-learn.org/stable/)
 
 ## Run
-In a terminal or command window, navigate to the top-level project directory `intro-to-machine-learning-with-pytorch/` (that contains this README) and run the following command:
+In a terminal or command window, navigate to the top-level project directory `Creating-Customer-Segments-with-Arvato/` (that contains this README) and run the following command:
 ```bash
 ipython notebook Identify_Customer_Segments.ipynb
 ```
